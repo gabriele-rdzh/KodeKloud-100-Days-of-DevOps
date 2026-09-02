@@ -1,2 +1,2 @@
-# KodeKloud-100_Days_of_DevOps
+# KodeKloud-100-Days-of-DevOps
 Hands-on solutions for KodeKloud Engineer - 100 Days of DevOps
